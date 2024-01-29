@@ -1,0 +1,23 @@
+
+.gridFive{
+    width: 500px;
+    background-color: AliceBlue;
+    position: relative;
+    padding: 10px;
+}
+
+.eight {
+    padding-bottom: 100px;
+}
+
+.nine {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+}
+
+.nine > img{
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+

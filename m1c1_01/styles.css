@@ -1,0 +1,6 @@
+.gridOne{
+    background-color: AliceBlue;
+    display: grid;
+    grid-template-columns:repeat(2,1fr);
+    justify-items: left;
+}

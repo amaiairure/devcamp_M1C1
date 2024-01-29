@@ -1,0 +1,14 @@
+
+.gridFour{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 500px;
+    background-color: green;
+    padding: 10px 0px;
+}
+
+#seven {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
