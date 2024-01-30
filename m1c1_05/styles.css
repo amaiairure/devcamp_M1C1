@@ -2,12 +2,12 @@
 .gridFive{
     width: 500px;
     background-color: AliceBlue;
-    position: relative;
     padding: 10px;
 }
 
 .eight {
-    padding-bottom: 100px;
+    display: grid;
+    grid-template-rows: 1fr 1fr;
 }
 
 .nine {
@@ -20,4 +20,5 @@
     width: 200px;
     object-fit: cover;
 }
+
 
